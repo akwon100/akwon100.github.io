@@ -1,11 +1,11 @@
 # Site settings
 author: Alice Kwon
-title: 
+title: Mod 2 Project
 header-img: img/home-bg.png
 email: akwon@gradcenter.cuny.edu
 copyright_name: Alice Kwon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Linear Regression Model
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  akwon100
